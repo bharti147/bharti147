@@ -5,7 +5,7 @@ I'm  Bharti, a passionate web developer . Welcome to my GitHub profile!
 ## About Me
 
 - 💻 I'm a Web Developer.
-- 🎓 I recently graduated from Chitkara University with a major in Computer Science Engineering.
+- 🎓 I graduated from Chitkara University with a major in Computer Science Engineering.
 - 🔍 I'm always eager to learn and explore new technologies and methodologies.
 - 📚 In my free time, I enjoy reading tech blogs and reading fictional books.
 
