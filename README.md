@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm  Bharti, a passionate web developer . Welcome to my GitHub profile!
+I'm  Bharti, a passionate java developer . Welcome to my GitHub profile!
 
 ## About Me
 
