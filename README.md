@@ -4,7 +4,7 @@ I'm  Bharti, a passionate java developer . Welcome to my GitHub profile!
 
 ## About Me
 
-- 💻 I'm a Web Developer.
+- 💻 I'm a Java Developer.
 - 🎓 I graduated from Chitkara University with a major in Computer Science Engineering.
 - 🔍 I'm always eager to learn and explore new technologies and methodologies.
 - 📚 In my free time, I enjoy reading tech blogs and reading fictional books.
@@ -32,9 +32,6 @@ I'm  Bharti, a passionate java developer . Welcome to my GitHub profile!
 
 
 
-## What I'm Working On
-
-- 🌱 I'm learning Java.
 
 
 ## Get in Touch
