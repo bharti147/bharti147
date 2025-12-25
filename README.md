@@ -15,7 +15,7 @@ I'm  Bharti, a passionate java developer . Welcome to my GitHub profile!
   - Java, JavaScript
 
 - **Web Development:**
-  - HTML, CSS, SASS, Tailwind CSS
+  - HTML, Tailwind CSS
 
 - **Front-End Frameworks/Libraries:**
   - React.js, Material-UI, Redux
@@ -24,7 +24,7 @@ I'm  Bharti, a passionate java developer . Welcome to my GitHub profile!
   - Express.js,  Node.js
 
 - **Database:**
-  - MongoDB, Poastgres
+  - MongoDB, Postgres
 
 - **Developer Tools:**
   - Git, Netlify, Vercel, VS Code, IntelliJ, Eclipse
