@@ -7,7 +7,6 @@ I'm  Bharti, a passionate java developer . Welcome to my GitHub profile!
 - 💻 I'm a Java Developer.
 - 🎓 I graduated from Chitkara University with a major in Computer Science Engineering.
 - 🔍 I'm always eager to learn and explore new technologies and methodologies.
-- 📚 In my free time, I enjoy reading tech blogs and reading fictional books.
 
 ## My Tech Stack
 
@@ -25,7 +24,7 @@ I'm  Bharti, a passionate java developer . Welcome to my GitHub profile!
   - Express.js,  Node.js
 
 - **Database:**
-  - MongoDB
+  - MongoDB, Poastgres
 
 - **Developer Tools:**
   - Git, Netlify, Vercel, VS Code, IntelliJ, Eclipse
