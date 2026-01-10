@@ -27,7 +27,7 @@ I'm  Bharti, a passionate java developer . Welcome to my GitHub profile!
   - MongoDB, Postgres
 
 - **Developer Tools:**
-  - Git, Netlify, Vercel, VS Code, IntelliJ, Eclipse
+  - IntelliJ, Eclipse, Git, Netlify, Vercel, VS Code
 
 
 
