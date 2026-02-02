@@ -1,45 +1,51 @@
 # Hi there! 👋
 
-I'm  Bharti, a passionate java developer . Welcome to my GitHub profile!
+I'm Bharti, a Java Backend Developer in transition, focused on building reliable and scalable backend systems. Welcome to my GitHub profile!
 
 ## About Me
 
-- 💻 I'm a Java Developer.
-- 🎓 I graduated from Chitkara University with a major in Computer Science Engineering.
-- 🔍 I'm always eager to learn and explore new technologies and methodologies.
+- 💻 Java Backend Developer (Spring Boot, REST APIs)
+- 🎓 B.Tech in Computer Science Engineering from Chitkara University
+- 🔄 Transitioned from Web Development to Backend Engineering
+- 📚 Currently undergoing structured Java & Spring Boot training and building backend-focused projects
+- 🎯 Actively preparing for Junior Java / SDE-1 backend roles
 
-## My Tech Stack
+## Tech Stack
 
-- 💼 I have experience working with:
-- **Languages:**
-  - Java, JavaScript
+### Backend
+- Java (Core Java, OOP)
+- Spring Boot, Spring MVC
+- Spring Data JPA, Hibernate
+- REST APIs, RESTful Web Services
+- Microservices (basics)
+- Dependency Injection
 
-- **Web Development:**
-  - HTML, Tailwind CSS
+### Databases
+- PostgreSQL
+- MongoDB
 
-- **Front-End Frameworks/Libraries:**
-  - React.js, Material-UI, Redux
+### Tools & Dev Practices
+- Git & GitHub
+- IntelliJ IDEA, Eclipse
+- Postman
+- Maven
+- Basic AWS (EC2, S3)
 
-- **Back-End Frameworks/Libraries:**
-  - Express.js,  Node.js
+### Frontend (working knowledge)
+- HTML
+- React.js (basic)
 
-- **Database:**
-  - MongoDB, Postgres
+## What I'm Working On
 
-- **Developer Tools:**
-  - IntelliJ, Eclipse, Git, Netlify, Vercel, VS Code
-
-
-
-
+- Building Java Spring Boot backend projects
+- API design, database integration, and backend fundamentals
+- Improving problem-solving with Data Structures & Algorithms
+- Writing clean, maintainable, production-oriented code
 
 ## Get in Touch
 
-- 📫 You can reach me via bhartisahani406@gmail.com.
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bharti-sahani-25a250188/).
-- 🐦 Follow me on [Twitter](https://twitter.com/bharti147).
+- 📫 Email: bhartisahani406@gmail.com  
+- 💼 LinkedIn: [Bharti Sahani](https://www.linkedin.com/in/bharti-sahani-25a250188/)
 
-
-
-Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. 😊
-
+Thanks for visiting my GitHub profile!  
+More projects coming soon 🚀
