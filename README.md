@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Bharti, a Java Backend Developer in transition, focused on building reliable and scalable backend systems. Welcome to my GitHub profile!
+I'm Bharti Sahani, a Java Backend Developer in transition, focused on building reliable and scalable backend systems. Welcome to my GitHub profile!
 
 ## About Me
 
